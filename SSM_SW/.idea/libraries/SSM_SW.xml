@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="SSM_SW">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/dist/SSM_SW.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
